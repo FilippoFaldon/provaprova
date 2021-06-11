@@ -32,17 +32,17 @@ ul li{ display: inline;}
 
 a{text-decoration: none;}
 
-ul{ margin-top: 2em;}
+ul{ margin-top: 2.2222%;}
 
-li#menu { padding-left: 3em;
+li#menu { padding-left: 3.3333%;
           font-family: "Alata",sans-serif;}
 
 li#home {margin-right:;}
 
-li#gadget {padding-left: 51em;
+li#gadget {padding-left: 56.7%;
           font-family: "Alata",sans-serif;}
 
-li#language {margin-left: 3.125em;
+li#language {margin-left: 3.47%;
             font-family: "Alata",sans-serif;
             color: white;}
 
@@ -50,30 +50,30 @@ li#language {margin-left: 3.125em;
       color: white;}
 
 
-.AA{margin-top: 5.625em;}
+.AA{margin-top: 6.25%;}
 
 .A{float: left;
   width: 30%;
-  margin: 1em;
+  margin: 1.1111%;
   padding-top: 15%;
   padding-bottom: 20%;
-  margin-left: 1.5625em;
+  margin-left: 1.736%;
   font-family: "Alata",sans-serif;}
 
 .B{float: left;
   width: 30%;
-  margin: 1em;
+  margin: 1.1111%;
   padding-top: 15%;
   padding-bottom: 20%;
-  margin-left: 1.25em;
+  margin-left: 1.39%;
   font-family: "Alata",sans-serif;}
 
 .C{float: left;
   width: 30%;
   padding-top: 15%;
   padding-bottom: 20%;
-  margin: 1em;
-  margin-left: 1.25em;
+  margin: 1.1111%;
+  margin-left: 1.39%;
   font-family: "Alata",sans-serif;}
 
 h2{ text-align: center;}
@@ -97,14 +97,14 @@ h2{ text-align: center;}
 /*PAGINA SETTORI SPECIFICA*/
 
 
-li#VIE { margin-left: 43em;
+li#VIE { margin-left: 47.8%;
           font-family: "Alata",sans-serif;}
 
-li#DRY { margin-left: 3.125em;
+li#DRY { margin-left: 3.47%;
           font-family: "Alata",sans-serif;}
 
 
-li#gadget2 {padding-left: 3.125em;
+li#gadget2 {padding-left: 3.47%;
             font-family: "Alata",sans-serif;}
 
     .A7 {color: #eff02c;
@@ -117,26 +117,26 @@ li#gadget2 {padding-left: 3.125em;
 
     .D{float: left;
       width: 30%;
-      margin: 1em;
+      margin: 1.1111%;
       padding-top: 15%;
       padding-bottom: 20%;
-      margin-left: 1.5625em;
+      margin-left: 1.736%;
       font-family: "Alata",sans-serif;}
 
     .E{float: left;
       width: 30%;
-      margin: 1em;
+      margin: 1.1111%;
       padding-top: 15%;
       padding-bottom: 20%;
-      margin-left: 1.5625em;
+      margin-left: 1.736%;
       font-family: "Alata",sans-serif;}
 
     .F{float: left;
       width: 30%;
       padding-top: 15%;
       padding-bottom: 20%;
-      margin: 1em;
-      margin-left: 1.25em;
+      margin: 1.1111%;
+      margin-left: 1.39%;
       font-family: "Alata",sans-serif;}
 
  .A9 {background-color: black;}
@@ -146,8 +146,8 @@ li#gadget2 {padding-left: 3.125em;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 2.5em;
-    margin-left: 2.5em;
+    padding-right: 2.8%;
+    margin-left: 2.8%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/5-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -156,8 +156,8 @@ li#gadget2 {padding-left: 3.125em;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 2.5em;
-    margin-left: 1em;
+    padding-right: 2.8%;
+    margin-left: 1.1111%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/9-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -166,8 +166,8 @@ li#gadget2 {padding-left: 3.125em;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 2.5em;
-    margin-left: 1em;
+    padding-right: 2.8%;
+    margin-left: 1.1111%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/10-PICCOLO.png");
     background-repeat: no-repeat;}
@@ -176,8 +176,8 @@ li#gadget2 {padding-left: 3.125em;
     width: 20%;
     padding-top: 15%;
     padding-bottom: 30%;
-    padding-right: 2.5em;
-    margin-left: 1em;
+    padding-right: 2.8%;
+    margin-left: 1.1111%;
     font-family: "Alata",sans-serif;
     background-image: url("../IMG/12-PICCOLO.png");
     background-repeat: no-repeat;}
